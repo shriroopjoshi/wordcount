@@ -50,7 +50,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>ch.cern.awg.Driver</mainClass>
+                            <mainClass>com.example.Driver</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>
